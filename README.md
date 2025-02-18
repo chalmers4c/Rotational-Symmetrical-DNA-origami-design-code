@@ -18,7 +18,13 @@ The design of this rotational symmetrical tile is not straight forward, first of
 
 # Design a pentagon
 Here, I will design a pentagon, partially inspired by the yorkshire white rose in the UK and the property of pentagon, for what makes pentagon so unique: "The Infinite Pattern That Never Repeats" by Veritasium
-(https://www.youtube.com/watch?v=48sCx-wBs34&t=1s)
+(https://www.youtube.com/watch?v=48sCx-wBs34&t=1s).
+The AFM image of the pentagon I designed.
+![08191345_0_00001_spm](https://github.com/user-attachments/assets/47450272-dc94-4e44-afe4-01336b5193ec)
+And lastly the assemble of polygons:
+![Brighten 08191628_0_00001_spm](https://github.com/user-attachments/assets/10cb360c-2127-49ef-a59a-26499d437c47)
+
+
 
 
 

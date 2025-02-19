@@ -27,5 +27,8 @@ And lastly the assemble of polygons:
 # Script
 When running the script (python), it will prompt you to do some parameter entry, please refer to Tang et al. about the basic parameter, some default parameter is already plugged into it, with one click it will provide you 4 important things in two dictionary (all in cap letters). The first one is excess scaffold, ideally you want that number to be as small as possible, but not negative, you can do some adjustment on the scaffold loop length. The second one is the basepair length of each helix of each subunit (each pizza), this is how you can draw the Cadnano design out. The third and forth are the scaffold loop length and bridge staple length. For definition, refer to Tikhomirov et al. With these informaiton you can use Cadnano to draw up your design.
 
+# Cadnano and oxDNA structure
+The structure can be found in the nanobase.org: https://nanobase.org/structure/3c9df5ef
+
 # Disclaimer
 The images presented in this repository (github) are original and generated from my laboratory research.
